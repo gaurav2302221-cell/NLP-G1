@@ -21,11 +21,19 @@ Production-ready resume screening system using state-of-the-art NLP with **profe
 
 ---
 
-## ⚡ **Try Live App Now!**
+## 🌐 **PUBLIC APP - TRY NOW (NO INSTALLATION!)**
 
-### 🎯 **[➤ Open Live App - https://nlp-resume-screening.streamlit.app](https://nlp-resume-screening.streamlit.app)**
+### 🚀 **[👉 CLICK HERE TO OPEN LIVE APP 👈](https://nlp-resume-screening.streamlit.app)**
 
-No installation needed! The app is deployed and ready to use immediately.
+```
+🌍 PUBLIC LINK: https://nlp-resume-screening.streamlit.app
+✅ Status: LIVE & PUBLIC
+✅ No Login Required
+✅ Completely FREE
+✅ Accessible to Everyone
+```
+
+**Just click the link above - no installation, no registration, no payment needed!**
 
 ---
 
@@ -764,8 +772,9 @@ This system assists in resume screening and should be used in conjunction with h
 - **Email**: team@resumescreening.com
 
 **📖 Documentation:**
-- [README.md](README.md) - This file
-- [DEPLOYMENT.md](DEPLOYMENT.md)- Cloud deployment guides
+- ⭐ **[PUBLIC_DEPLOYMENT.md](PUBLIC_DEPLOYMENT.md)** - PUBLIC APP INFO (Read This First!)
+- [README.md](README.md) - This file (main overview)
+- [DEPLOYMENT.md](DEPLOYMENT.md) - Cloud deployment guides
 - [START_HERE.md](START_HERE.md) - Quick start
 - [QUICK_START.md](QUICK_START.md) - Code examples
 
